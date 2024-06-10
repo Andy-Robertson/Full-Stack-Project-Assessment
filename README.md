@@ -1,9 +1,13 @@
 .
 # Youtube Saver App
 
+## Preview
+
+Main Dashboard
+![YOUTUBE-APP](https://i.ibb.co/QYmNrFM/video-Saver.png)
 ## Description
 
-Youtube Saver is a Full-stack PERN application that enables Youtube videos to be added to a favorite list that can be easily shared. Completed as part of the CodeYourFutures Full-Stack Web Development Bootcamp.
+Youtube Saver is a Full-stack PERN application that enables YouTube videos to be added to a favourite list that can be easily shared. Completed as part of the CodeYourFutures Full-Stack Web Development Bootcamp.
 
 ## Feature List
 - Add video
@@ -39,12 +43,3 @@ Youtube Saver is a Full-stack PERN application that enables Youtube videos to be
 2. Add a leave comment feature
 2. Refactor code
 3. Add tests
-
-## Deployment
-
-[The Video Saver app is deployed on Heroku](https://youtube-video-saver.herokuapp.com/)
-
-## Preview
-
-Homepage
-![Video-Saver-APP](https://andy-robertson.dev/static/media/videoSaver.459b7f27.png)
